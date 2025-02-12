@@ -10,11 +10,11 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             title: "Les Soirées Cinéma",
-            text: "Comme deux gobelins, on attendait un câble depuis tout ce temps, juste pour que tu te décides à me dire que tu voulais voir ce film sur l'ordi. Mais bon, t'inquiète pas, j'arrive très vite pour voir ta tête affolée devant un film d'horreur."
+            text: "Comme deux Golmons, on attendait un câble depuis tout ce temps, juste pour que tu te décides à me dire que tu voulais voir ce film sur l'ordi. Mais bon, t'inquiète pas, j'arrive très vite pour voir ta tête affolée devant un film d'horreur."
         },
         {
             title: "Les Fous Rires",
-            text: "Chirine, tu es vraiment la personne avec qui je peux le plus rigoler. On se retrouve comme des gobelins à se taquiner et rigoler jusqu'à 4h du matin."
+            text: "Chirine, tu es vraiment la personne avec qui je peux le plus rigoler. On se retrouve comme des golmons à se taquiner et rigoler jusqu'à 4h du matin."
         },
         {
             title: "Les Projets Futurs",
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             title: "La Complicité",
-            text: "On en est au point où je commence à penser que tu recopies ma personnalité à voir être moi en fille."
+            text: "On en est au point où je commence à penser que tu recopies ma personnalité pour être moi en fille."
         },
         {
             title: "Les Surprises",
